@@ -19,6 +19,7 @@ import { GitIcon } from "@/components/ui/svgs/git";
 
 export const DATA = {
   name: "Biswarup Biswas",
+  url: "",
   initials: "BB",
   location: "Kolkata, India",
   locationLink: "https://www.google.com/maps/place/Kolkata",
