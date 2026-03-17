@@ -19,7 +19,7 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/biswa2005/Por   tfolio-v2
+   git clone https://github.com/biswa2005/Portfolio-v2
    ```
 
 2. Move to the cloned directory
