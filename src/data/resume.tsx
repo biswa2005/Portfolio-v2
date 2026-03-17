@@ -177,7 +177,7 @@ export const DATA = {
       dates: "Dec 2025 - Present",
       active: true,
       description:
-        "DevArena is a polished application that aggregates programming contests and hackathons from multiple platforms and displays them with real-time timers, filters. It was built for competitive programmers to discover ongoing and upcoming events across CodeChef, CodeForces, Devfolio and Unstop",
+        "DevArena is a polished application that aggregates programming contests and hackathons from multiple platforms and displays them with real-time timers, filters.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -236,7 +236,7 @@ export const DATA = {
       dates: "Mar 2026",
       active: true,
       description:
-        "A modern, dark-themed portfolio website showcasing the work and expertise of Bedabrata Paul, an Engineering Student specializing in CSE (AI & ML), UI/UX Designer, Web Developer, and Founder of BEYOND POWERED digital services & consultancy.",
+        "A modern, dark-themed portfolio website showcasing the work and expertise of Bedabrata Paul, UI/UX Designer, Web Developer, and Founder of BEYOND POWERED digital services & consultancy.",
       technologies: [
         "Next.js",
         "Typescript",
@@ -286,7 +286,7 @@ export const DATA = {
     {
       title: "Hack-O-NiT",
       dates: "Dec 20th, 2024",
-      location: "Kolkta, India",
+      location: "Kolkata, India",
       description:
         "Developed a all-in-one college/school management application to make a face-based attendance system and helpful for upload necessary resources and learn from it for both students and teachers.",
       image:
