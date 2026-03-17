@@ -268,10 +268,15 @@ export const DATA = {
       location: "Kolkata, India",
       description:
         "Developed a Whatsapp Bot named 'Sanjeevani' that predicts diseases based on user symptoms and provides medical guidance. The project won the internal hackathon organized by SIH and was recognized for its innovative use of AI in healthcare.",
-      image:
-        "/sih.png",
+      image: "/sih.png",
       mlh: "",
-      links: [],
+      links: [
+        {
+          href: "https://t.me/Sanjeevani2026_bot",
+          title: "",
+          icon: "",
+        },
+      ],
     },
     {
       title: "Hackloop Finalist",
@@ -279,10 +284,15 @@ export const DATA = {
       location: "Remote",
       description:
         "Piteched a idea called 'Trinetra' for a smart glass system for blind users to help them crossing paths and helps to do their regular staffs independently. The project was selected as a finalist in Hackloop 2025, showcasing its potential to enhance accessibility for visually impaired individuals.",
-      image:
-        "/hackloop.jpg",
+      image: "/hackloop.jpg",
       mlh: "",
-      links: [],
+      links: [
+        {
+          href: "",
+          title: "",
+          icon: "",
+        },
+      ],
     },
     {
       title: "Hack-O-NiT",
@@ -290,11 +300,15 @@ export const DATA = {
       location: "Kolkata, India",
       description:
         "Developed a all-in-one college/school management application to make a face-based attendance system and helpful for upload necessary resources and learn from it for both students and teachers.",
-      image:
-        "/hackonit.png",
+      image: "/hackonit.png",
       mlh: "",
-      links: [],
+      links: [
+        {
+          href: "",
+          title: "",
+          icon: "",
+        },
+      ],
     },
-
   ],
 } as const;
